@@ -1,2 +1,2 @@
 # Activity-2-Personal-Branding
-Created a professional dark blue resume design using Canva, applying personal branding principles through consistent typography, color scheme, layout, and visual identity.
+Created a personal branding kit for Dot & Flash by applying the principles of personal branding, including developing a clear visual identity through a brand name, logo, tagline, color palette, and typography.
